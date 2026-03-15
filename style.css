@@ -1,1 +1,55 @@
+body{
+font-family:Arial;
+text-align:center;
+background:#f4f6ff;
+padding:40px;
+}
 
+h1{
+color:#4a6cff;
+}
+
+input{
+padding:12px;
+width:250px;
+border:1px solid #ccc;
+border-radius:5px;
+}
+
+button{
+padding:12px 20px;
+background:#4a6cff;
+color:white;
+border:none;
+border-radius:5px;
+cursor:pointer;
+margin-left:10px;
+}
+
+button:hover{
+background:#354edb;
+}
+
+#image{
+width:400px;
+margin-top:20px;
+border-radius:10px;
+}
+
+ul{
+list-style:none;
+padding:0;
+}
+
+li{
+background:#e8ecff;
+margin:8px;
+padding:10px;
+border-radius:6px;
+}
+
+#quiz button{
+display:block;
+margin:10px auto;
+width:200px;
+}
